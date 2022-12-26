@@ -1,2 +1,45 @@
+.main-container{
+    margin: 0;
+    padding:0;
+}
+.container{
+    border: 5px solid greenyellow;
+    background-color: pink;
+}
+.row3{
+    background-color: black;
+    padding-left: 180px;
+}
+.row1col1{
+    background-color: darkcyan;
+}
+.row1col2{
+    background-color: plum;
+}
+.row2col1{
+background-color: orangered;
+}
+.row2col2{
+background-color: cyan;
+}
+.row3col1{
+background-color: plum;
+}
+.row3col2{
+background-color: greenyellow;
+}
+.row2{
+    background-color: black;
+    padding-left: 177px;
+    column-gap: 177px;
+}
 
+.row{
+    position: relative;
+    height: 200px;
+    margin: 10px;
+}
+.col{
+    border:1px solid black;
+}
 /* Your CSS Code here. */
