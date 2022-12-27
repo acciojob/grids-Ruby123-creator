@@ -1,12 +1,10 @@
+
 .main-container{
-    margin: 0;
-    padding:0;
-}
-.container{
     border: 5px solid greenyellow;
     background-color: pink;
+    padding:10px !important;
 }
-.row3{
+.myrow{
     background-color: black;
 }
 .row1col1{
@@ -26,11 +24,6 @@ background-color: plum;
 }
 .row3col2{
 background-color: greenyellow;
-}
-.row2{
-    background-color: black;
-    padding-left: 177px;
-    column-gap: 177px;
 }
 
 .row{
